@@ -1,2 +1,2 @@
 ### Task Calculator
-demo: https://github.io/seaboard191743/presentation
+demo: https://seaboard191743.github.io/presentation
